@@ -1,0 +1,9 @@
+
+Basically an edit of the excellent work done by Tom Wallroth. Original source
+can be found here: http://github.com/devsnd/matrix-curses/
+
+I just altered the characters being used and changed the color scheme. I also
+tweaked some settings such as mostly disabling windows because I didn't like
+the way those looked. The code is largely the same and changes have been
+commented. 
+
