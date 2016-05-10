@@ -7,3 +7,5 @@ tweaked some settings such as mostly disabling windows because I didn't like
 the way those looked. The code is largely the same and changes have been
 commented. 
 
+This script uses Curses and works best if your term-type is Linux. 
+
